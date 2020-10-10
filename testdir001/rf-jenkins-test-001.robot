@@ -6,4 +6,5 @@ Library           Selenium2Library
     Open Browser    https://www.baidu.com/    chrome
     Comment    Maximize Browser Window
     Input Text    xpath=//*[@id="kw"]    rf-jenkins-test啊啊啊
+    sleep    1
     Close Browser
